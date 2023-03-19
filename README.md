@@ -1,2 +1,2 @@
-# full-stack-development
+# front-end-development
 Calculator and text editor 
